@@ -1,4 +1,4 @@
-# CSS-Grundlagen
+# CSS Basics
 
 CSS steht für Cascading Style Sheets und wird verwendet, um das Aussehen von HTML-Elementen auf einer Webseite zu definieren. Hier sind die Grundlagen von CSS:
 
@@ -112,3 +112,6 @@ Nachfolgend ein paar nützliche Ressourcen mit Links, geordnet zu den obigen The
 - [Übersicht verschiedene CSS-Eigenschaften](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften)
 - [CSS Einbinden](https://wiki.selfhtml.org/wiki/CSS/Tutorials/Einstieg/Stylesheets_einbinden#direkt_in_einem_style-Attribut)
 - [W3Schools als wichtige Referenz](https://www.w3schools.com/cssref/index.php)
+
+<br><br>
+[**--> zurück zur Übersicht**](/README.md)
