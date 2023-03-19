@@ -26,6 +26,21 @@ HTML-Attribute werden verwendet, um zusätzliche Informationen zu Tags hinzuzuf�
 
 Hier ist ein Beispiel für eine HTML-Seite, die aus einem `<head>`-Bereich und einem `<body>`-Bereich besteht:
 
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Meine Webseite</title>
+  </head>
+  <body>
+    <h1>Willkommen auf meiner Webseite</h1>
+    <p>Hier ist ein Absatz mit ein paar Informationen.</p>
+    <img src="mein-bild.jpg" alt="Mein Bild" />
+    <a href="https://www.meinlink.de">Hier ist ein Link</a>
+  </body>
+</html>
+```
+
 
 <br><br>
 [**--> zurück zur Übersicht**](/README.md)
