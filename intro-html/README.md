@@ -27,6 +27,7 @@ HTML-Attribute werden verwendet, um zusätzliche Informationen zu Tags hinzuzuf�
 #### `<img>` 
 - `src`: Wird verwendet, um die Quelle des Bildes für das `<img>`-Tag anzugeben.
 - `alt`: Wird verwendet, um den Alternativtext eines Bildes (`<img>`-Tag) zu definieren, für Screenreader und wenn das Bild nicht angezeigt werden kann.
+- `width`: Definiert die Breite des Bildes in Pixel
 #### `<a>`
 - `href`: Wird verwendet, um den Ziel-URL für das `<a>`-Tag anzugeben.
 - `target="_blank"`: Wird verwendet, um bei Klicken des Links, ein neues Browser-Tab zu öffnen
