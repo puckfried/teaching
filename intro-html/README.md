@@ -12,6 +12,10 @@ HTML-Tags sind Elemente, die zur Strukturierung von Inhalten auf einer Webseite 
 - `<h1>` bis `<h6>`: Definiert die Überschriften auf der Seite, wobei `<h1>` die höchste und `<h6>` die niedrigste Ebene hat.
 - `<p>`: Definiert einen Absatz.
 - `<img>`: Definiert ein Bild.
+- `<a>`: Definiert einen Link.
+- `<ul>`: Definiert eine unsortierte Liste.
+- `<ol>`: Definiert eine sortierte/nummerierte Liste.
+- `<li>`: Definiert ein einzelnes Listenelement innerhalb einer Liste.
 
 ## Attribute
 
@@ -20,6 +24,7 @@ HTML-Attribute werden verwendet, um zusätzliche Informationen zu Tags hinzuzuf�
 - `class`: Wird verwendet, um ein Tag mit einer Klasse zu kennzeichnen, um es zu formatieren oder mit CSS zu stylen.
 - `id`: Wird verwendet, um ein Tag mit einer eindeutigen ID zu kennzeichnen, um es per CSS oder JavaScript zu manipulieren.
 - `src`: Wird verwendet, um die Quelle des Bildes für das `<img>`-Tag anzugeben.
+- `alt`: Wird verwendet, um den Alternativtext eines Bildes (`<img>`-Tag) zu definieren, für Screenreader und wenn das Bild nicht angezeigt werden kann.
 - `href`: Wird verwendet, um den Ziel-URL für das `<a>`-Tag anzugeben.
 
 ## Beispiel
