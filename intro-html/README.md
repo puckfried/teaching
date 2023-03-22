@@ -50,7 +50,13 @@ Hier ist ein Beispiel für eine HTML-Seite, die aus einem `<head>`-Bereich und e
   </body>
 </html>
 ```
+## VS-Code
 
+Es gibt eine Vielzahl an Tastenkombinationen zur vereinfachten Arbeit, hier ein paar:
+- `Strg` + `s` --> Speichern
+- `Alt` + `Pfeiltaste` --> Zeilen verschieben, hoch/runter
+- `!` --> erzeugt in einer leeren html-Datei einen Boilerplate-Code
+- `lorem50` --> erzeugt einen Lorem-Text mit 50 Worten 
 
 <br><br>
 [**--> zurück zur Übersicht**](/README.md)
