@@ -55,6 +55,7 @@ Hier ist ein Beispiel für eine HTML-Seite, die aus einem `<head>`-Bereich und e
 Es gibt eine Vielzahl an Tastenkombinationen zur vereinfachten Arbeit, hier ein paar:
 - `Strg` + `s` --> Speichern
 - `Alt` + `Pfeiltaste` --> Zeilen verschieben, hoch/runter
+- `Alt` + `z` --> Zeilenumbruch anschalten/ausschalten
 - `!` --> erzeugt in einer leeren html-Datei einen Boilerplate-Code
 - `lorem50` --> erzeugt einen Lorem-Text mit 50 Worten 
 
