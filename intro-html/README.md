@@ -23,9 +23,13 @@ HTML-Attribute werden verwendet, um zusätzliche Informationen zu Tags hinzuzuf�
 
 - `class`: Wird verwendet, um ein Tag mit einer Klasse zu kennzeichnen, um es zu formatieren oder mit CSS zu stylen.
 - `id`: Wird verwendet, um ein Tag mit einer eindeutigen ID zu kennzeichnen, um es per CSS oder JavaScript zu manipulieren.
+
+#### `<img>` 
 - `src`: Wird verwendet, um die Quelle des Bildes für das `<img>`-Tag anzugeben.
 - `alt`: Wird verwendet, um den Alternativtext eines Bildes (`<img>`-Tag) zu definieren, für Screenreader und wenn das Bild nicht angezeigt werden kann.
+#### `<a>`
 - `href`: Wird verwendet, um den Ziel-URL für das `<a>`-Tag anzugeben.
+- `target="_blank"`: Wird verwendet, um bei Klicken des Links, ein neues Browser-Tab zu öffnen
 
 ## Beispiel
 
