@@ -34,9 +34,14 @@ CSS-Selektoren werden verwendet, um zu definieren, welche HTML-Elemente gestylt 
 
 CSS-Eigenschaften definieren das Aussehen eines Elements, wie z.B. Farbe, Schriftart, Größe und Position. Hier sind einige grundlegende CSS-Eigenschaften:
 
-#### Farben
+### Farben
 - `color`: Definiert die Schriftfarbe.
 - `background-color`: Definiert die Hintergrundfarbe.
+
+### Hintergrund
+- `background-image`: legt Hintergrundbild fest, z.B. `background-image: url("meinBild.jpg") `
+- `background-repeat`: Hintergrundbild soll sich wiederholen oder nicht
+- `background-size` : Die Größe des Hintergrundbildes festlegen
 
 ### Text
 - `font-family`: Definiert die Schriftart.
