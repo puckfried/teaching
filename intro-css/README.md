@@ -29,6 +29,14 @@ CSS-Selektoren werden verwendet, um zu definieren, welche HTML-Elemente gestylt 
   <a>
 </div>
 ```
+### Spezifität
+Jeder Selektor hat eine eigene pezifität. Nur Selektoren mit gleicher oder höherer Spezifität können andere Selektoren überschreiben.
+- Elementselektor --> 1
+- Klassenselektor --> 10
+- ID-Selektor --> 100
+
+Bei kombinierte Selektoren wird die jeweilige Spzifität addiert, Beispiel:
+`ul > .listItem` --> Spezifität 11 --> p (1) + .listItem(10)
 
 ## Eigenschaften
 
