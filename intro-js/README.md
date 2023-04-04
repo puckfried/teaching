@@ -105,10 +105,12 @@ element.classList.remove("box");
 ### `element.style`
 Die Eigenschaft style eines Elements ermöglicht es uns, die CSS-Eigenschaften des Elements direkt zu ändern. Jede CSS-Eigenschaft kann als Attribut aufgerufen und geändert werden.
 
+###### html
 ```html
 <div id="meinDiv"></div>
 ```
 
+###### javascript
 ```javascript
 // Wählt das Element mit der ID "meinDiv" aus
 const element = document.querySelector("#meinDiv");
