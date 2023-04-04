@@ -28,3 +28,4 @@ CSS steht für Cascading Style Sheets und wird verwendet, um das Aussehen von HT
 
 JavaScript ist eine Skriptsprache, die in Webseiten verwendet wird, um die Funktionalität und Interaktivität der Seite zu verbessern. Mit JavaScript können Entwickler dynamische Elemente hinzufügen, Benutzereingaben verarbeiten, Formulare validieren, Animationen erstellen und vieles mehr. JavaScript wird sowohl auf der Front-End- als auch auf der Back-End-Seite der Webentwicklung eingesetzt. Es ist eine der beliebtesten Programmiersprachen der Welt und wird von den meisten modernen Webbrowsern unterstützt.
 
+[zu den JS Basics](/intro-js/README.md)
