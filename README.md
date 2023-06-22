@@ -12,6 +12,7 @@ Das Frontend ist der Teil einer Website oder Anwendung, den Benutzer sehen und m
 
 Das Backend ist der Teil einer Website oder Anwendung, der im Hintergrund arbeitet und die Logik und Datenverarbeitung durchführt. Das Backend kann mit einer Vielzahl von Programmiersprachen und Frameworks erstellt werden, und es kann eine Datenbank zur Speicherung von Informationen enthalten. Benutzerinteraktion mit dem Backend erfolgt normalerweise über APIs (Application Programming Interfaces).
 <br><hr>
+
 ### HTML
 
 HTML steht für Hypertext Markup Language und ist eine Auszeichnungssprache, die verwendet wird, um den Inhalt einer Webseite zu strukturieren und zu kennzeichnen. Mit HTML können verschiedene Elemente wie Überschriften, Absätze, Bilder und Links definiert werden. Diese Elemente können dann mit CSS gestaltet werden, um eine ansprechende Webseite zu erstellen.
@@ -26,6 +27,13 @@ CSS steht für Cascading Style Sheets und wird verwendet, um das Aussehen von HT
 
 ### JS
 
-JavaScript ist eine Skriptsprache, die in Webseiten verwendet wird, um die Funktionalität und Interaktivität der Seite zu verbessern. Mit JavaScript können Entwickler dynamische Elemente hinzufügen, Benutzereingaben verarbeiten, Formulare validieren, Animationen erstellen und vieles mehr. JavaScript wird sowohl auf der Front-End- als auch auf der Back-End-Seite der Webentwicklung eingesetzt. Es ist eine der beliebtesten Programmiersprachen der Welt und wird von den meisten modernen Webbrowsern unterstützt.
+JavaScript ist eine Skriptsprache, die in Webseiten verwendet wird, um die Funktionalität und Interaktivität der Seite zu verbessern. Mit JavaScript können Entwickler dynamische Elemente hinzufügen, Benutzereingaben verarbeiten, Formulare validieren, Animationen erstellen und vieles mehr. Neben der Verwendung im Fromtemd kann JavaScript auch im Backend verwendet werden. Es ist eine der beliebtesten Programmiersprachen der Welt und wird von den meisten modernen Webbrowsern unterstützt.
 
 [zu den JS Basics](/intro-js/README.md)
+
+
+### Tastenkombinationen
+
+Hier findet ihr eine kurze Übersicht über häufig verwendete Tastenkombinationen und Emmet Abkürzungen in VS-Code
+
+[zur Überischt Tastenkombinationen](/shortcuts/README.md)
