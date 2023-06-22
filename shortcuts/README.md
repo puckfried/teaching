@@ -33,7 +33,7 @@ Emmet sind Kurzformen, die VS Code zu Code umschreibt, hier einige kurze Beispie
 - `a{weiterlesen}`  --> erzeugt ein `<a href="">weiterlesen</a>`
 - `section>img+p+a` --> erzeugt eine Sektion und darin ein `<img>`, `<p>`und ein `<a>`
 
-Ihr könnt diese Elemente miteinander kombinieren und damit sehr umfangreiche Codeblöcke bauen. Benutzt diese aber erst, wenn ihr euch mit eurem html sicher seid. Je länger eure Kombinationen sind, desto leichter könnt ihr Fehler produzieren und den Überblick verlieren. Es gibt diese Emmet Abkürzungen auch für CSS. Für einen (sehr) umfangreichen Überblick über die Möglichkeiten findet könnt ihr hier schauen:
+Ihr könnt diese Elemente miteinander kombinieren und damit sehr umfangreiche Codeblöcke bauen. Benutzt diese aber erst, wenn ihr euch mit eurem html sicher seid. Je länger eure Kombinationen sind, desto leichter könnt ihr Fehler produzieren und den Überblick verlieren. Es gibt diese Emmet Abkürzungen auch für CSS. Einen (sehr) umfangreichen Überblick über die verschiedenen Möglichkeiten findet ihr hier:
 ***[Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)***
 
 
