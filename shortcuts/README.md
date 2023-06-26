@@ -12,6 +12,7 @@ Tastenkombinationen, die in **VS Code** und anderen Programmen funktionieren:
 - Einfügen        --> `STRG` + `v`
 - Suchen          --> `STRG` + `f`
 - Speichern       --> `STRG` + `s`
+- alles markieren --> `STRG` + `a`
 
 
 ## VS-Code
@@ -20,7 +21,7 @@ Diese praktischen Kombinationen funktionieren nur in VS Code:
 - `Alt` + `Pfeiltaste`  --> Zeilen verschieben, hoch/runter
 - `Alt` + `z`           --> Zeilenumbruch anschalten/ausschalten
 - `STRG`+ `#`           --> erzeugt einen Kommentar 
-
+- `STRG`+ `l`           --> Zeile markieren
 
 
 ### Emmet Abkürzungen in VS Code
