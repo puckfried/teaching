@@ -36,4 +36,4 @@ JavaScript ist eine Skriptsprache, die in Webseiten verwendet wird, um die Funkt
 
 Hier findet ihr eine kurze Übersicht über häufig verwendete Tastenkombinationen und Emmet Abkürzungen in VS-Code
 
-[zur Überischt Tastenkombinationen](/shortcuts/README.md)
+[zur Übersicht Tastenkombinationen](/shortcuts/README.md)
