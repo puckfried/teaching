@@ -1,4 +1,4 @@
-# Nützliche shortcuts (Windows)
+# Nützliche Tastenkombinationen (Windows)
 
 Es ist hilfreich einige Tastenkombinationen für häufige Handlungen zu lernen. Mit der Tastatur könnt ihr schneller arbeiten und es entstehen weniger Fehler als bei der Benutzung mit der Maus (Touchpad). Vielleicht seit ihr am Anfang etwas langsamer, aber auf lange Sicht lohnt sich das Lernen.
 
